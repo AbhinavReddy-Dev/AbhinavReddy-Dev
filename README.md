@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Abhinav Reddy</h1>
+<h1 align="center">Hi there! 👋</h1>
 <h3 align="center">Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p>
