@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p>
 
-- 🔭 I’m currently working on **HacktoberFest2020**
+- 🔭 I’m currently working on **Contributing to Open Source for HacktoberFest 2020**
 
 - 🌱 I’m currently learning **VueJs & TypeScript**
 
 - 👯 I’m looking to collaborate on **ReactJs, Redux & ExpressJs**
 
-- 👨‍💻 All of my projects are available at [singularitydev.netlify.com](singularitydev.netlify.com)
+- 👨‍💻 All of my projects are available at [singularitydev](https://singularitydev.netlify.app)
 
 - 📝 I regularly write articles on [https://dev.to/abhinavreddy](https://dev.to/abhinavreddy)
 
