@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **abhinavreddy9681@gmail.com**
 
-- ⚡ Fun fact- **I know that I crack you up!**
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
