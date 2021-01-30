@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJs, Redux & ExpressJs**
 
-- 👨‍💻 All of my projects are available at [Abhinav Reddy](https://abhinavreddy.dev)
+- 👨‍💻 Visit my portfolio website which I built with passion at [Abhinav Reddy](https://abhinavreddy.dev)
 
 - 📝 I write articles on [https://dev.to/abhinavreddy](https://dev.to/abhinavreddy)
 
