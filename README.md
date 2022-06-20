@@ -1,37 +1,37 @@
 
-<h1 align="center">I believe, so can you! ✊🏻</h1>
-<h3 align="center">I love to write code, if it's JS, then I can do it all day and all night.</h3>
+<!-- <h1 align="center">I believe, so can you! ✊🏻</h1> -->
+<!-- <h3 align="center">I love to write code, if it's JS, then I can do it all day and all night.</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p> -->
 
 - 👨🏻‍💻 Graduate student at California State University, Chico (2021 - 2023).
 
-- © I'm an entreprenuer now! [Skill-EX](https://skillxploration.com)
+<!-- - © I'm an entreprenuer now! [Skill-EX](https://skillxploration.com) -->
 
-- 🔭 I’m currently working on **My new portfolio site design**
+<!-- - 🔭 I’m currently working on **My new portfolio site design** -->
 
-- 🌱 I’m currently learning **TypeScript**
+<!-- - 🌱 I’m currently learning **TypeScript** -->
 
-- 👨🏻‍🎨 I love the idea behind the use of **Design Thinking for UI and UX**.
+<!-- - 👨🏻‍🎨 I love the idea behind the use of **Design Thinking for UI and UX**. -->
 
-- 👯 I’m looking to collaborate on **ReactJs, React-Native, Redux & ExpressJs. (Anything JS and Python works with me)**
+<!-- - 👯 I’m looking to collaborate on **ReactJs, React-Native, Redux & ExpressJs. (Anything JS and Python works with me)** -->
 
-- 👨‍💻 Visit my portfolio website which was also my first project to learn **HTML and CSS** at [Abhinav Reddy](https://abhinavreddy.dev)
+<!-- - 👨‍💻 Visit my portfolio website which was also my first project to learn **HTML and CSS** at [Abhinav Reddy](https://abhinavreddy.dev) -->
 
-- 📝 I like to write articles [https://dev.to/abhinavreddy](https://dev.to/abhinavreddy), I think I should get serious about this now.
+<!-- - 📝 I like to write articles [https://dev.to/abhinavreddy](https://dev.to/abhinavreddy), I think I should get serious about this now. -->
 
-- 💬 Ask me about **JavaScript, Python, React, Design Thinking, UI and UX**
+<!-- - 💬 Ask me about **JavaScript, Python, React, Design Thinking, UI and UX** -->
 
-- 🚣🏻‍♂️ 🏃🏻‍♂️ I like to **row** and **run**.
+<!-- - 🚣🏻‍♂️ 🏃🏻‍♂️ I like to **row** and **run**. -->
 
-- 📫 How to reach me **abhinavreddy.dev@gmail.com**
+<!-- - 📫 How to reach me **abhinavreddy.dev@gmail.com** -->
 
 
 
 <!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!-- 
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/abhinavreddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="abhinavreddy" height="50" width="80" /></a>
@@ -43,3 +43,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavreddy-dev&layout=compact" alt="abhinavreddy-dev" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinavreddy-dev&show_icons=true" alt="abhinavreddy-dev" /></p>
+ -->
