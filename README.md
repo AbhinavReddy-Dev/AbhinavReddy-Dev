@@ -4,7 +4,11 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p> -->
 
-- 👨🏻‍💻 Graduate student at California State University, Chico (2021 - 2023).
+- 👨🏻‍💻 Software Engineer and Graduate student at California State University, Chico (2021 - 2023).
+
+
+[![An image of @abhinavreddydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavreddydev)](https://holopin.io/@abhinavreddydev)
+
 
 <!-- - © I'm an entreprenuer now! [Skill-EX](https://skillxploration.com) -->
 
