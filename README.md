@@ -3,7 +3,7 @@
 <!-- <h3 align="center">I love to write code, if it's JS, then I can do it all day and all night.</h3> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavreddy-dev" alt="abhinavreddy-dev" /> </p> -->
-[abhinavreddy.dev](abhinavreddy.dev) 👨🏻‍💻 Software Engineer and Graduate student at California State University, Chico (2021 - 2023).
+[abhinavreddy.dev](https://abhinavreddy.dev) 👨🏻‍💻 Software Engineer and Graduate student at California State University, Chico (2021 - 2023).
 
 
 [![An image of @abhinavreddydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavreddydev)](https://holopin.io/@abhinavreddydev)
