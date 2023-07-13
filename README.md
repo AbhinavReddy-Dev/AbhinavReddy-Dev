@@ -2,7 +2,7 @@
 
 [abhinavreddy.dev](https://abhinavreddy.dev) 
 <!--  -->
-👨🏻‍💻 I am a Full-Stack Developer (Web & Mobile) and a Masters graduate in CS at California State University, Chico.
+👨🏻‍💻 I am a Full-Stack Developer (Web & Mobile), also with ML experience and a Masters graduate in CS at California State University, Chico.
 
 
 [![An image of @abhinavreddydev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhinavreddydev)](https://holopin.io/@abhinavreddydev)
